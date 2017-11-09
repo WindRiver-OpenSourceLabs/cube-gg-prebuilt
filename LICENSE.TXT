@@ -1,0 +1,1 @@
+LICENSES/Greengrass AWS SW License (IoT additiona) vr6.txt
